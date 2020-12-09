@@ -11,7 +11,7 @@
 # Description
 An app to help you keep track of your thoughts by saving notes and having the option to delete as well.
 # Installation
-1. npm install 2. node server.js || or use the deployed app:[Heroku](https://note-compiler.herokuapp.com/)
+1. npm install 2. node server.js 3. localhost:3000 || or use the deployed app on [Heroku](https://note-compiler.herokuapp.com/)
 # Usage
 Run the app locally using node, or click on the link to the deployed heroku app and hit the "Get started" button. You are now on the notes page where you can review saved notes or write new ones to help keep your thoughts organized.
 # Contributors
