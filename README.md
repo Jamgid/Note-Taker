@@ -1,6 +1,6 @@
 ## Note-Taker
-## ISC
-## Jamgid | jamgid@yahoo.com
+## ![](https://img.shields.io/badge/License-ISC-green)
+## ![](https://img.shields.io/badge/Github-Jamgid-orange) ![](https://img.shields.io/badge/Email-Jamgid@yahoo.com-blue)
 ## ![img](https://github.com/Jamgid/Note-Taker/blob/master/assets/images/notes-notes.png?raw=true)
 ## ![img](https://github.com/Jamgid/Note-Taker/blob/master/assets/images/notes-gif.gif?raw=true)
 ## Table of Contents
@@ -8,7 +8,6 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributors](#contributors)
-5. [Questions](#questions)
 # Description
 An app to help you keep track of your thoughts by saving notes and having the option to delete as well.
 # Installation
