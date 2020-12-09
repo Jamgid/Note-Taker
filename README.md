@@ -1,7 +1,8 @@
 ## Note-Taker
 ## ISC
 ## Jamgid | jamgid@yahoo.com
-
+## ![img](https://github.com/Jamgid/Note-Taker/blob/master/assets/images/notes-notes.png?size=300)
+## ![img](https://github.com/Jamgid/Note-Taker/blob/master/assets/images/notes-gif.gif?raw=true)
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
