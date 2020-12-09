@@ -15,6 +15,6 @@ An app to help you keep track of your thoughts by saving notes and having the op
 # Usage
 Run the app locally using node, or click on the link to the deployed heroku app and hit the "Get started" button. You are now on the notes page where you can review saved notes or write new ones to help keep your thoughts organized.
 # Contributors
-![](https://img.shields.io/badge/Created by-James Gideon-Purple)
+![](https://img.shields.io/badge/Created_by-James_Gideon-purple)
 ## ![img](https://avatars0.githubusercontent.com/u/69053531?size=200)
 # Questions
