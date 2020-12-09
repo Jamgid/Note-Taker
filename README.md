@@ -1,7 +1,7 @@
 ## Note-Taker
 ## ISC
 ## Jamgid | jamgid@yahoo.com
-## ![img](https://github.com/Jamgid/Note-Taker/blob/master/assets/images/notes-notes.png?size=300)
+## ![img](https://github.com/Jamgid/Note-Taker/blob/master/assets/images/notes-notes.png?raw=true)
 ## ![img](https://github.com/Jamgid/Note-Taker/blob/master/assets/images/notes-gif.gif?raw=true)
 ## Table of Contents
 1. [Description](#description)
@@ -18,4 +18,4 @@ Run the app locally using node, or click on the link to the deployed heroku app 
 # Contributors
 ![](https://img.shields.io/badge/Created_by-James_Gideon-purple)
 ## ![img](https://avatars0.githubusercontent.com/u/69053531?size=200)
-# Questions
+
